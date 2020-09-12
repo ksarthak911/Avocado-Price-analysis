@@ -10,6 +10,9 @@ The scope of this project is to ihow prices of Avocado changes with time and reg
 # Source of the Dataset
 The dataset used here is taken from [Justin Kiggins Avocado Prices](https://www.kaggle.com/neuromusic/avocado-prices) on Kaggle.
 
+# Tools used
+[Jupyter Notebook by Anaconda distribution](https://jupyter.org/)
+
 # Data Information
 Dataset contains historical data of avocado prices and sales volume in multiple US market.
 Dataset contains 14 columns.
