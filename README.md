@@ -4,7 +4,7 @@ Exploratory data analysis on the Avocado Prices dataset provided on Kaggle by Ju
 
 # Scope of the Analysis
 Exploratory data analysis (EDA) is very important and basic step that is used to understand the data and how it behaves. In the most simple terms, EDA is understanding the data with help of data visualization and descriptive statistics. I have learnt EDA and various Machine learning concepts through various courses,and through this project I have made an attempt to implement and improove my EDA and visualization knowledge.
-The scope of this project is to ihow prices of Avocado changes with time and region. Also, to understand how the prices and volume consumed for various types of Avocado changes.
+The scope of this project is to how prices of Avocado changes with time and region. Also, to understand how the prices and volume consumed for various types of Avocado changes.
 
 
 # Source of the Dataset
